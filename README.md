@@ -1,2 +1,2 @@
-# first-demo
+.# first-demo
 this is demo repo.
